@@ -1,2 +1,6 @@
-telethon
-tqdm
+python-telegram-bot==22.0
+watchdog
+gspread
+oauth2client
+
+
